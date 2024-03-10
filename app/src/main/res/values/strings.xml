@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FactApp</string>
+    <string name="fact_text">Facts about cats</string>
+    <string name="fact_service_btn_text">Service</string>
+    <string name="fact_worker_btn_text">Work Manager</string>
+    <string name="selection_screen_text">Select a query on the Internet</string>
+</resources>
